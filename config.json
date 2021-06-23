@@ -1,0 +1,22 @@
+{
+  "params" :
+  {
+    "local_server": "True",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "local_uri" : "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/codingThunder",
+    "twitter_url": "https://twitter.com/codingThunder",
+    "github_url": "https://github.com/codingThunder",
+    "blog_name" : "Code Thunder",
+    "tag_line" :"Blog for Programmer",
+    "gmail_user": "",
+    "gmail_password": "",
+    "no_of_posts":  2,
+    "company_name": "Angry Nerd",
+    "login_image": "login.jpg",
+    "admin_user": "tarun",
+    "admin_pass": "hello",
+    "upload_location": "C:\\Users\\tarun\\PycharmProjects\\PythonTuts\\tar_flask\\static\\assets\\img"
+  }
+
+}
